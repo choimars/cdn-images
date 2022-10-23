@@ -13,14 +13,25 @@
 ![](https://cdn.jsdelivr.net/gh/choimars/cdn-images/cmars/portrait.jpg)
 ### https://cdn.jsdelivr.net/gh/choimars/cdn-images/cmars/portrait.jpg
 ---
+![](https://cdn.jsdelivr.net/gh/choimars/cdn-images/triangles/logo/default.png)
+### https://cdn.jsdelivr.net/gh/choimars/cdn-images/triangles/logo/default.png
+---
 
 ![](https://cdn.jsdelivr.net/gh/choimars/cdn-images/triangles/logo/triangles/triangles_logo2.png)
 ### https://cdn.jsdelivr.net/gh/choimars/cdn-images/triangles/logo/triangles/triangles_logo2.png
 ---
-![](https://cdn.jsdelivr.net/gh/choimars/cdn-images/triangles/logo/triangles/logo_220x58.png)
-### https://cdn.jsdelivr.net/gh/choimars/cdn-images/triangles/logo/triangles/logo_220x58.png
+![](https://cdn.jsdelivr.net/gh/choimars/cdn-images/triangles/logo/logo_220x58.png)
+### https://cdn.jsdelivr.net/gh/choimars/cdn-images/triangles/logo/logo_220x58.png
 ---
+
+![](https://cdn.jsdelivr.net/gh/choimars/cdn-images/triangles/logo/triangles_head_shadow1.png)
+### https://cdn.jsdelivr.net/gh/choimars/cdn-images/triangles/logo/triangles_head_shadow1.png
+---
+
 ## SVG
 ![](https://cdn.jsdelivr.net/gh/choimars/cdn-images/triangles/logo/SVG/T-logo-nonTypo.svg)
 ### https://cdn.jsdelivr.net/gh/choimars/cdn-images/triangles/logo/SVG/T-logo-nonTypo.svg
+---
+![](https://cdn.jsdelivr.net/gh/choimars/cdn-images/triangles/logo/SVG/T-logo-white.svg)
+### https://cdn.jsdelivr.net/gh/choimars/cdn-images/triangles/logo/SVG/T-logo-white.svg
 ---
